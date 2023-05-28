@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+visualization/*.png
+visualization/binary_tree
+visualization/heap_deletion/*.png
+visualization/hashing/outfile.csv
+visualization/hashing/output/
+practicals/heap/outfile.csv
